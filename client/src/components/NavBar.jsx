@@ -5,7 +5,7 @@ function NavBar({ darkMode, setDarkMode, currentUser, onOpenAuthModal, onLogout 
     <header className="navbar-container">
       <nav className="navbar">
         <div className="nav-brand">
-          <div className="brand-badge">DL</div>
+          <div className="brand-badge">AC</div>
           <div className="brand-details">
             <span className="brand-name">Aryan Chanpa</span>
             <span className="brand-sub">ID: 24CS011</span>
